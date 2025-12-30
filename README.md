@@ -85,6 +85,7 @@ const Naitik = {
 
 # 🤝 Connect with Me
 
+
 <p align="center">
   <a href="https://linkedin.com/in/naitik-patel-3b7b232b8" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
@@ -97,7 +98,12 @@ const Naitik = {
   <a href="https://drive.google.com/file/d/142Lwk0wRvBnzpjzjLW2X7iNoCHwVZJpY/view" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/naitiiik31?tab=repositories" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
