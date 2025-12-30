@@ -85,6 +85,15 @@ const Naitik = {
 
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naitiiik31&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naitiiik31&theme=github_dark" height="170"/>
+</p>
+
+
+
 # 🤝 Connect with Me
 
 
@@ -105,7 +114,3 @@ const Naitik = {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
