@@ -83,6 +83,11 @@ const Naitik = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+## 🎮 Contribution Game
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/naitiiik31/naitiiik31/output/pacman-contribution-graph.svg)
+
+
 # 🤝 Connect with Me
 
 
