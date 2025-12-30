@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Naitik Patel</h1>
+<h3 align="center">Machine Learning enthusiast from India focused on developing predictive models and intelligent software solutions.</h3>
 
-<!--
-**naitiiik31/naitiiik31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naitiiik31&label=Profile%20Views&color=0e75b6&style=flat" alt="naitiiik31" />
+</p>
+
+# 💫 About Me
+
+```js
+const Naitik = {
+    location: "Sabarkantha, Gujarat, India 🇮🇳",
+
+    academics: {
+        degree: "B.Tech in Computer Engineering",
+        institute: "Pandit Deendayal Energy University",
+        duration: "2023 – 2027"
+    },
+
+    learningTrack: [
+        "Machine Learning",
+        "Data Structures & Algorithms"
+    ],
+
+    highlights: [
+        "Consistently improving problem-solving skills through DSA practice",
+        "Exploring ML concepts with hands-on coding",
+        "Focused on building strong fundamentals"
+    ],
+
+    funFact: "I enjoy solving DSA problems more than scrolling through social media 🧠✨"
+};
+```
+# 💻 Tech Stack
+<h3 align="center">🧑‍💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🤖 AI / Machine Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🌐 Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🗄️ Databases & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Other</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+# 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/naitik-patel-3b7b232b8" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/naitik3103" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/142Lwk0wRvBnzpjzjLW2X7iNoCHwVZJpY/view" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
+
+
