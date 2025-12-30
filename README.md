@@ -22,8 +22,8 @@ const Naitik = {
     },
 
     learningTrack: [
-        "Machine Learning",
-        "Data Structures & Algorithms"
+    "AI / ML (GenAI, Deep Learning, NLP, CV, LLMs)",
+    "Data Structures & Algorithms"
     ],
 
     highlights: [
