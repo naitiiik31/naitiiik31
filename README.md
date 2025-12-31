@@ -85,9 +85,23 @@ const Naitik = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+# 🚀 Featured Projects
+
+| Project | Description |
+|--------|------------|
+| **🌦️ Weather Prediction System** | ML-based temperature forecasting using **Random Forest & LSTM** with **85% accuracy** |
+| **🎬 Movie Recommendation System** | Content-based recommender using **TF-IDF** and **Cosine Similarity** |
+| **😊 Emotion Prediction using NLP** | Text classification using **Machine Learning & Deep Learning** |
+| **📂 All GitHub Projects** | 🔗 **View All Repositories** (GitHub Profile) |
+
+<p align="center">
+  <a href="https://github.com/naitiiik31?tab=repositories" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32"/>
+  </a>
+</p>
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naitiiik31&theme=github_dark" height="170"/>
@@ -111,8 +125,5 @@ const Naitik = {
   <a href="https://drive.google.com/file/d/142Lwk0wRvBnzpjzjLW2X7iNoCHwVZJpY/view" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/naitiiik31?tab=repositories" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
+ 
 </p>
