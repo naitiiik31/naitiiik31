@@ -85,20 +85,15 @@ const Naitik = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |--------|------------|
-| **🌦️ Weather Prediction System** | ML-based temperature forecasting using **Random Forest & LSTM** with **85% accuracy** |
-| **🎬 Movie Recommendation System** | Content-based recommender using **TF-IDF** and **Cosine Similarity** |
-| **😊 Emotion Prediction using NLP** | Text classification using **Machine Learning & Deep Learning** |
-| **📂 All GitHub Projects** | 🔗 **View All Repositories** (GitHub Profile) |
+| 🌦️ **Weather Prediction System** | ML-based temperature forecasting using **Random Forest & LSTM** with **85% accuracy** |
+| 🎬 **Movie Recommendation System** | Content-based recommender using **TF-IDF** and **Cosine Similarity** |
+| 😊 **Emotion Prediction using NLP** | Text classification using **Machine Learning & Deep Learning** |
+| 📂 **More Projects** | <a href="https://github.com/naitiiik31?tab=repositories" target="_blank"><strong>Click to explore</strong></a> |
 
-<p align="center">
-  <a href="https://github.com/naitiiik31?tab=repositories" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32"/>
-  </a>
-</p>
 
 
 # 📊 GitHub Stats
