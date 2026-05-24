@@ -88,10 +88,10 @@ const Naitik = {
 ## 🚀 Featured Projects
 
 | Project | Description |
-|--------|------------|
-| 🌦️ **Weather Prediction System** | ML-based temperature forecasting using **Random Forest & LSTM** with **85% accuracy** |
-| 🎬 **Movie Recommendation System** | Content-based recommender using **TF-IDF** and **Cosine Similarity** |
-| 😊 **Emotion Prediction using NLP** | Text classification using **Machine Learning & Deep Learning** |
+|---|---|
+| 🤖 **AI Video Assistant** | End-to-end meeting intelligence using Whisper + LangChain + FAISS — <2s retrieval latency across 60+ min videos |
+| 📄 **Intelligent Document Q&A** | Production RAG pipeline with ChromaDB, MMR re-ranking, ~5,600 vectors indexed |
+| 🎬 **Movie Recommendation System** | Content-based recommender using TF-IDF + Cosine Similarity — Precision@10 of 0.678 |
 | 📂 **More Projects** | <a href="https://github.com/naitiiik31?tab=repositories" target="_blank"><strong>Click to explore</strong></a> |
 
 
