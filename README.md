@@ -27,9 +27,9 @@ const Naitik = {
     ],
 
     highlights: [
-    "Python Django Developer Intern at Brainybeam Info-Tech",
-    "Built production RAG pipelines and GenAI systems with LangChain + OpenAI",
-    "LeetCode 1950+ rating | Top 4% globally | 1000+ problems solved"
+        "Python Django Developer Intern at Brainybeam Info-Tech",
+        "Built production RAG pipelines and GenAI systems with LangChain + OpenAI",
+        "LeetCode 1950+ rating | Top 4% globally | 1000+ problems solved"
 ],
 
     funFact: "I enjoy solving DSA problems more than scrolling through social media 🧠✨"
